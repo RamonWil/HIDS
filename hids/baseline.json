@@ -1,0 +1,7 @@
+{
+    "./hids_test\\notes.txt": "5c1ad2f061c47e80627178c70ff9110e1620d42040de8baf99b7eca33878dccb",
+    "./hids_test\\config\\app.conf": "985f5bf42c317ec0b2f8f51184268837a51ac551f75013ef4970fd3488878348",
+    "./hids_test\\config\\evil.conf": "63c6ff4830408e216b467a2338e9ec3c8adb0c82275ec51511a0b523df15b22f",
+    "./hids_test\\config\\test.conf": "d0436daf9a6072c8cdceceed81dbd95cb4c228a836bb1a7102d2607f4bf8e5e6",
+    "./hids_test\\scripts\\run.bat": "45b312519ba0f13a4f4d5244afabeb1e8f87ca1afe50709e4ec51fd6d56bed82"
+}
